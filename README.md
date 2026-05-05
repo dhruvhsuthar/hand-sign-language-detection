@@ -12,7 +12,7 @@ Real-time hand sign language detection system built using **MediaPipe** and **Op
 
 | Fist | Thumbs Up |
 |:----:|:---------:|
-| ![Fist](assets/fist.png) | ![Thumbs Up](assets/thumbs_up.png) |
+| ![Fist](assets/fist.png) | ![Thumbs Up](assets/thumbs up.png) |
 
 ---
 
